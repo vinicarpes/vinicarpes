@@ -49,7 +49,6 @@ Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Ta
 
 ## ✍️ Posts & Artigos
 
-
 ---
 
 ## 📫 Contato
