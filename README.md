@@ -47,10 +47,6 @@ Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Ta
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicarpes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinicarpes&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicarpes&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 ---
 
 ## ✍️ Posts & Artigos
