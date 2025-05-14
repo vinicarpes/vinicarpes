@@ -1,13 +1,4 @@
-<!--
-  README.md template para desenvolvedor Java Backend
--->
-
-<!-- Banner / Capa -->
-<p align="center">
-  <img src="https://github.com/vinicarpes/seu-repo/raw/main/assets/banner.png" alt="Banner" width="800"/>
-</p>
-
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Vinicius 👋
 
 Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Também possuo conhecimentos em frontend para entregar aplicações full‑stack eficientes.
 
@@ -51,24 +42,23 @@ Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Ta
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicarpes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicarpes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+  <!-- Stats Card: total de commits, PRs, issues, etc. :contentReference[oaicite:0]{index=0} -->
 </p>
 
 <p align="center">
-  <!-- GitHub Stats Card: mostra total de commits, PRs, issues, etc. -->
-  [![Meus GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicarpes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <!-- :contentReference[oaicite:0]{index=0} -->
+  <!-- Top Languages: linguagens mais usadas no seu perfil -->
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicarpes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  <!-- :contentReference[oaicite:1]{index=1} -->
 
-  <!-- Top Languages: mostra língua­gens mais usadas no seu perfil -->
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicarpes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <!-- :contentReference[oaicite:1]{index=1} -->
-
-  <!-- Activity Graph: mostra sua atividade (commits, PRs, issues) nos últimos 31 dias -->
-  [![Minha Atividade GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=vinicarpes&theme=github-dark) <!-- :contentReference[oaicite:2]{index=2} -->
+  <!-- Activity Graph: contribuições dos últimos 31 dias -->
+  [![Minha Atividade GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=vinicarpes&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)  <!-- :contentReference[oaicite:2]{index=2} -->
 </p>
 
-<!-- (Opcional) GitHub Streak Stats: sua sequência atual e recorde de dias com contribuições -->
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicarpes&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats) <!-- :contentReference[oaicite:3]{index=3} -->
+  <!-- (Opcional) Streak Stats: sequência atual e recorde de dias com contribuições -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicarpes&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)  <!-- :contentReference[oaicite:3]{index=3} -->
 </p>
+
 
 
 ---
