@@ -27,7 +27,7 @@ Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Ta
 <details>
   <summary><strong>Backend</strong></summary>
   
-  - **Linguagens**: Java, Javascript   
+  - **Linguagens**: Java  
   - **Frameworks**: Spring Framework, Spring Web, Spring Security, Spring MVC, Spring Data JPA
   - **Persistência**: Hibernate, JPA, MySQL, PostgreSQL  
   - **Arquitetura**: REST, MVC    
@@ -53,7 +53,6 @@ Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Ta
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinicarpes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-## 📊 Estatísticas do GitHub
 
 <p align="center">
   <!-- GitHub Stats Card: mostra total de commits, PRs, issues, etc. -->
@@ -63,7 +62,7 @@ Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Ta
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicarpes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <!-- :contentReference[oaicite:1]{index=1} -->
 
   <!-- Activity Graph: mostra sua atividade (commits, PRs, issues) nos últimos 31 dias -->
-  ![Minha Atividade GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=vinicarpes&theme=github-dark) <!-- :contentReference[oaicite:2]{index=2} -->
+  [![Minha Atividade GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=vinicarpes&theme=github-dark) <!-- :contentReference[oaicite:2]{index=2} -->
 </p>
 
 <!-- (Opcional) GitHub Streak Stats: sua sequência atual e recorde de dias com contribuições -->
