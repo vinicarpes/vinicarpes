@@ -41,22 +41,15 @@ Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Ta
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicarpes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-  <!-- Stats Card: total de commits, PRs, issues, etc. :contentReference[oaicite:0]{index=0} -->
-</p>
+## 📊 Minhas Estatísticas
 
-<p align="center">
-  <!-- Top Languages: linguagens mais usadas no seu perfil -->
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicarpes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  <!-- :contentReference[oaicite:1]{index=1} -->
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicarpes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <!-- (Opcional) Streak Stats: sequência atual e recorde de dias com contribuições -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicarpes&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)  <!-- :contentReference[oaicite:3]{index=3} -->
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicarpes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinicarpes&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicarpes&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
