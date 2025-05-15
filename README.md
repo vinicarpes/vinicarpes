@@ -2,6 +2,8 @@
 
 Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Também possuo conhecimentos em frontend para entregar aplicações full‑stack eficientes.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicarpes&show_icons=true&theme=transparent&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicarpes&layout=donut&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🚀 Sobre Mim
