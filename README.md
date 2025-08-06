@@ -47,7 +47,6 @@ Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Ta
 
 ## 📫 Contato
 
-- ✉️ Email: vinicdf000@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/vinicius-carpes  
 
 ---
