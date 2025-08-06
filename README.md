@@ -11,7 +11,7 @@ Desenvolvedor Java Backend com paixão por criar APIs robustas e escaláveis. Ta
 - 🎓 Formação técnica em Desenvolvimento de Sistemas e superior em Análise e Desenvolvimento de Sistemas (ambas em andamento)
 - 🖥️ Foco em **Java**, **Spring Boot**, **Backend**  
 - ☁️ Experiência em desenvolvimento de webservices e REST APIs   
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/vinicius-carpes), [Email](mailto:vinicdf000@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/vinicius-carpes)
 
 ---
 
