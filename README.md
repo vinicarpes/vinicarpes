@@ -1,6 +1,6 @@
 # Olá, eu sou Vinicius 👋
 
-Desenvolvedor Android e Backend com paixão por criar APIs robustas e escaláveis e aplicativos reativos. Minhas principais compotências envolvem Kotlin/Java para Android e Backend, mas estou explorando o mundo do Javascript para Backend usando Node.js.
+Desenvolvedor **Android** e **Backend** com paixão por criar APIs robustas e escaláveis e aplicativos reativos. Minhas principais compotências envolvem Kotlin/Java para Android e Backend, mas estou explorando o mundo do Javascript para Backend usando Node.js.
 
 ---
 
