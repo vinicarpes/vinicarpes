@@ -7,7 +7,7 @@ Desenvolvedor **Android** e **Backend** com paixão por criar aplicativos móvei
 ## 🚀 Sobre Mim
 
 - 🎓 Formação técnica em Desenvolvimento de Sistemas pelo IFSC e superior em Análise e Desenvolvimento de Sistemas 
-- 🖥️ Foco em **Kotlin** e **JetPachk Compose**, **Java** e **Spring Framework**
+- 🖥️ Foco em **Kotlin** e **JetPack Compose**, **Java** e **Spring Framework**
 - ☁️ Experiência em desenvolvimento de Apps android e webservices/REST APIs   
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/vinicius-carpes)
 
