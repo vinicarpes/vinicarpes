@@ -1,13 +1,13 @@
 # Olá, eu sou Vinicius 👋
 
-Desenvolvedor **Android** e **Backend** com paixão por criar aplicativos móveis e APIs robustas e escaláveis. Minhas principais compotências envolvem Kotlin/JetPack Compose para Android e Java/Spring Framework para Backend, mas estou explorando o mundo do Javascript para Backend usando Node.js.
+Desenvolvedor **Android** com paixão por criar aplicações móveis robustas e escaláveis. Minhas principal stack envolve Kotlin e JetPack Compose para desenvolvimento Android nativo.
 
 ---
 
 ## 🚀 Sobre Mim
 
 - 🎓 Formação técnica em Desenvolvimento de Sistemas pelo IFSC e superior em Análise e Desenvolvimento de Sistemas, atualmente aluno de Gestão da Tecnologia da Informação
-- 🖥️ Foco em **Kotlin** e **JetPack Compose**, **Java** e **Spring Framework**
+- 🖥️ Foco em **Kotlin** e **JetPack Compose**
 - ☁️ Experiência em desenvolvimento de Apps android e webservices/REST APIs   
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/vinicius-carpes)
 
