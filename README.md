@@ -1,55 +1,46 @@
 # Olá, eu sou Vinicius 👋
 
-Desenvolvedor **Android** com paixão por criar aplicações móveis robustas e escaláveis. Minhas principal stack envolve Kotlin e JetPack Compose para desenvolvimento Android nativo.
+Desenvolvedor **Android** focado na construção de aplicações móveis robustas, escaláveis e com alta qualidade de código. Atuo com desenvolvimento nativo utilizando **Kotlin** e **Jetpack Compose**.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🎓 Formação técnica em Desenvolvimento de Sistemas pelo IFSC e superior em Análise e Desenvolvimento de Sistemas, atualmente aluno de Gestão da Tecnologia da Informação
-- 🖥️ Foco em **Kotlin** e **JetPack Compose**
-- ☁️ Experiência em desenvolvimento de Apps android e webservices/REST APIs   
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/vinicius-carpes)
+- 🎓 Técnico em Desenvolvimento de Sistemas pelo IFSC  
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
+- 🎓 Atualmente cursando Gestão da Tecnologia da Informação  
+- 🖥️ Experiência no desenvolvimento de aplicações Android e integração com APIs REST  
+- ⚙️ Foco em boas práticas de arquitetura, legibilidade e manutenibilidade de código  
+- 📫 LinkedIn: [vinicius-carpes](https://www.linkedin.com/in/vinicius-carpes)
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<details>
-  <summary><strong>Android</strong></summary>
-  
-  - **Linguagem**: Kotlin 
-  - **Ferramentas**: Jetpack Compose, Koin, Hilt, Firebase, JUnit, Room, Retrofit, etc
-  - **Arquiteturas/Padrões**: MVVM, DI, Clean Code, Clean Architecture,AAA
-</details>
+### 📱 Android
+- **Linguagem:** Kotlin  
+- **UI:** Jetpack Compose  
+- **Frameworks e Bibliotecas:** Koin, Hilt, Firebase, Retrofit, Room  
+- **Testes:** JUnit, MockK, Kotest
+- **Arquitetura e Padrões:** MVVM, Clean Architecture, Dependency Injection (DI), Clean Code, AAA  
 
-<details>
-  <summary><strong>Backend</strong></summary>
-  
-  - **Linguagens**: Java  
-  - **Frameworks**: Spring Framework
-  - **Arquitetura**: REST, MVC    
-</details>
+### ⚙️ Backend
+- **Linguagem:** Java  
+- **Framework:** Spring Framework  
+- **Arquitetura:** REST, MVC  
 
 ---
 
-## ✍️ Posts & Artigos
+## ✍️ Publicações
 
-<details> <summary><strong>📄 Protótipo de Sistema IoT para Monitoramento de Sensores no Combate ao Furto de Cabos de Energia Elétrica — SEPEI 2025</strong></summary>
+### 📄 Protótipo de Sistema IoT para Monitoramento de Sensores no Combate ao Furto de Cabos de Energia Elétrica — SEPEI 2025  
+🔗 https://www.ifsc.edu.br/documents/d/sepei/prototipo-de-um-sistema-baseado-na-iot-para-monitoramento-de-sensores-no-combate-de-furtos-de-cabos-de-energia-eletrica-pdf
 
-🔗 Link:
-➡️ [Artigo](https://www.ifsc.edu.br/documents/d/sepei/prototipo-de-um-sistema-baseado-na-iot-para-monitoramento-de-sensores-no-combate-de-furtos-de-cabos-de-energia-eletrica-pdf)
+### 📄 Proposta de um Sistema de Notificação de Alertas no Combate ao Furto de Cabos de Energia — SNCT 2025  
+🔗 https://periodicos.ifsc.edu.br/index.php/snctifsc/article/view/4404
 
-</details> <br/> <details> <summary><strong>📄 Proposta de um Sistema de Notificação de Alertas no Combate ao Furto de Cabos de Energia — SNCT 2025</strong></summary>
-
-🔗 Link:
-➡️ [Artigo](https://periodicos.ifsc.edu.br/index.php/snctifsc/article/view/4404)
-
-</details>
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vinicius-carpes  
-
-
+- 💼 LinkedIn: https://www.linkedin.com/in/vinicius-carpes
