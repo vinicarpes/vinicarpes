@@ -2,12 +2,6 @@
 
 Desenvolvedor **Android** focado na construção de aplicações móveis robustas, escaláveis e com alta qualidade de código. Atuo com desenvolvimento nativo utilizando **Kotlin** e **Jetpack Compose**.
 
-<p align="center">
-  <img
-    src="https://ssr-contributions-svg.vercel.app/_/vinicarpes?chart=3dbar&weeks=40&flatten=1&animation=wave"
-    alt="Trilha de commits"
-  />
-</p>
 ---
 
 ## 🚀 Sobre Mim
