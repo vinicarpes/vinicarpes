@@ -8,8 +8,8 @@ Desenvolvedor **Android** focado na construção de aplicações móveis robusta
 
 - 🎓 Técnico em Desenvolvimento de Sistemas pelo IFSC  
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
-- 🎓 Atualmente cursando Gestão da Tecnologia da Informação  
-- 🖥️ Experiência no desenvolvimento de aplicações Android e integração com APIs REST  
+- 🎓 Atualmente cursando Pós-graduação em Progamação de Dispositivos Móveis pela UTFPR 
+- 🖥️ Experiência no desenvolvimento de aplicações Android nativas 
 - ⚙️ Foco em boas práticas de arquitetura, legibilidade e manutenibilidade de código  
 - 📫 LinkedIn: [vinicius-carpes](https://www.linkedin.com/in/vinicius-carpes)
 
